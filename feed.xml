@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
-  <id>b49e0d05-7cf3-4535-ad90-1a86ddcf0216</id>
-  <object>chat.completion</object>
-  <created>1768703739</created>
-  <model>deepseek-chat</model>
-  <choices>
-    <index>0</index>
-    <message>
-      <role>assistant</role>
-      <content>```json
-{
-    "Title": "The 5 Shocking Secrets Your Morning Coffee Hides: Why Your Brew Might Be Holding You Back",
-    "Content": "Ever finish your morning cup and feel like something's... off? That jolt of energy you're counting on sometimes fizzles into a foggy slump by 10 AM. It's not just you, and it might not be the caffeine's fault. What if the ritual itself—the beans, the grind, even the water—holds little-known keys to unlocking a completely different experience?\n\nLet's talk about the bean's journey. Most of us grab a bag off the shelf without a second thought. But here's a curious fact: coffee is a fruit seed. The way it's processed—washed, natural, or honey—imprints a unique flavor signature long before it reaches the roaster. A light roast from Ethiopia can sing with blueberry notes, while a Sumatran dark roast offers earthy, chocolatey depth. Are you tasting the true potential of your beans, or just... hot bitterness?\n\nThen there's the clock. Coffee beans release hundreds of aromatic compounds after roasting. There's a sweet spot, a window of peak flavor, often between 7 to 21 days post-roast. Stale beans lose their magic, resulting in a flat, dull cup. When was your coffee bagged? That 'best by' date might be hiding the real story.\n\nYour gear matters more than you think. A consistent grind size is the unsung hero of a great brew. Blade grinders? They create a chaotic mix of dust and boulders, leading to over- and under-extraction in the same pot. The result? A cup that's both sour and bitter. A simple switch to a burr grinder can feel like discovering coffee for the first time.\n\nAnd water—it's 98% of your drink. Tap water heavy with minerals or chlorine can mask delicate flavors. Using filtered water is like wiping a foggy window; suddenly, the nuanced notes of caramel, citrus, or nuttiness your coffee holds become brilliantly clear.\n\nThe opportunity here is simple: each variable is a dial you can adjust. Small tweaks can transform your daily routine from a mere caffeine delivery into a genuinely delightful moment of discovery. What will you try first—fresher beans, a better grind, or a change of water? The perfect cup for you is likely waiting just one small secret away."
-}
-```</content>
-    </message>
-    <logprobs/>
-    <finish_reason>stop</finish_reason>
-  </choices>
-  <usage>
-    <prompt_tokens>169</prompt_tokens>
-    <completion_tokens>514</completion_tokens>
-    <total_tokens>683</total_tokens>
-    <prompt_tokens_details>
-      <cached_tokens>0</cached_tokens>
-    </prompt_tokens_details>
-    <prompt_cache_hit_tokens>0</prompt_cache_hit_tokens>
-    <prompt_cache_miss_tokens>169</prompt_cache_miss_tokens>
-  </usage>
-  <system_fingerprint>fp_eaab8d114b_prod0820_fp8_kvcache</system_fingerprint>
+  <Theme/>
+  <Title/>
+  <Content/>
+  <sourceLink/>
+  <timeStamps/>
+  <Image/>
+  <Niche/>
+  <SubNiche/>
+  <Tags/>
   <affiliateLink/>
 </root>
